@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "name": "Sansung S20+ Ultra",
+      "price": "7500",
+      "quantity": 3
+    },
+    {
+      "id": 4,
+      "name": "Lapis Preto Básico",
+      "price": "1.50",
+      "quantity": 4
+    },
+    {
+      "id": 5,
+      "name": "Producto Teste",
+      "price": 125.98,
+      "quantity": 5
+    },
+    {
+      "id": 6,
+      "name": "teste de formulario",
+      "price": "1235.5",
+      "quantity": 2
+    },
+    {
+      "id": 7,
+      "name": "Televisão",
+      "price": "1599",
+      "quantity": 0
+    },
+    {
+      "id": 10,
+      "name": "Geladeira",
+      "price": "2345",
+      "quantity": 0
+    },
+    {
+      "id": 11,
+      "name": "Teclado",
+      "price": "299",
+      "quantity": 0
+    }
+  ]
+}

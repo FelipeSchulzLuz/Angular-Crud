@@ -1,0 +1,29 @@
+table { 
+    width: 100%;
+
+}
+.edit  {margin-right: 10px}
+
+.edit > i  {
+    color: #d9cd26;
+}
+
+.delete > i {color: #e35e6b}
+
+
+.edit > i:hover {
+    transform: scale(2);
+    transition: all 0.1s ease-in-out 0.05s;
+}
+.delete > i:hover {
+    transform: scale(2);
+    transition: all 0.1s ease-in-out 0.05s;
+}
+form {
+    display:flex;
+    flex-direction: column;
+}
+button {
+    margin-right: 15px;
+    margin-top: 20px;
+}
